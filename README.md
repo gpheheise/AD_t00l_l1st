@@ -20,3 +20,5 @@ FindMeAccess is a tool useful for finding gaps in Azure/M365 MFA requirements fo
 
 https://github.com/absolomb/FindMeAccess
 
+trustify
+https://github.com/bytewreck/Trustify.git
