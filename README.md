@@ -14,6 +14,13 @@ _RelayKing is a comprehensive relay detection and enumeration tool designed to i
 https://github.com/depthsecurity/RelayKing-Depth
 
 
+Netexec
+https://www.netexec.wiki
+
+PsMapExec
+
+https://github.com/The-Viper-One/PsMapExec
+
 **Azure**
 
 FindMeAccess is a tool useful for finding gaps in Azure/M365 MFA requirements for different resources, client ids, and user agents. The tool is mostly based off Spray365's auditing logic. The goal is to provide a streamlined way to quickly check gaps in coverage, as well as obtain tokens.
